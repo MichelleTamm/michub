@@ -1,4 +1,6 @@
-# INTRODUCTION
+# Cit|analysis （for test version）
+
+## INTRODUCTION
 
 Here is a new update for the plugin CIT|ANALYSIS.
 
@@ -30,6 +32,5 @@ This plugin is aiming to clarify the relationship between the commercial area/th
 
 # Update
 
-#Thank You
 
 
