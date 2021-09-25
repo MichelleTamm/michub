@@ -36,6 +36,7 @@ Here is a new update for the plugin CIT|ANALYSIS.
 
 ## Main updates for this section
 In this section，the plugin will have a clearly display for the schedule planning and guiding opinion of the nearby healthcare organization:
+- **Connection analysis** :*The relationship between one residence region to each healthcare organization?*
 - **Distance Analysis** : *How far between the residence area to reaching the hospital/pharmacy/private doctor?*
 - **Time Analysis** : *How can I get the fastest treatment in the midnight/How can I know where has the opening medical orgarnization in the midnight?*
 - **Amounts analysis** : *Analysis chart for each types of healthcare organization amounts/percentage?*
