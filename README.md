@@ -5,15 +5,15 @@
 Here is a new update for the plugin CIT|ANALYSIS.
 
 ## MAIN IDEA OF THIS PLUGIN
-This plugin is aiming to clarify the relationship between the community healthcare and the residence.
-- where is the zone of residence/community healthcare
--- what's the catchment radius for their network?their concentration area?
--- the reflection/development prospect/Provision of public facilities/convenience?
+**This plugin is aiming to clarify the relationship between the community healthcare and the residence.**
+- *Where is the zone of residence/community healthcare?*
+-- *What's the catchment radius for their network?their concentration area?*
+-- *The reflection/development prospect/Provision of public facilities/convenience?*
 
-- what can be better if the city system have change?
--- Need to Increase public health facilities?
--- How can people get the healthcare at once?
--- Provide a guideline/planning tool for people to catch the fastest treatmen
+- **What can be better if the city system have change?**
+-- *Need to Increase public health facilities?*
+-- *How can people get the healthcare at once?*
+-- *Provide a guideline/planning tool for people to catch the fastest treatment*
 
 # *For Alpha Section*
 ## STEP 1.choose a map for discovery
@@ -36,9 +36,9 @@ This plugin is aiming to clarify the relationship between the community healthca
 
 ## Main updates for this section
 In this section，the plugin will have a clearly display for the schedule planning and guiding opinion of the nearby healthcare organization:
-- Distance analysis:How far between the residence area to reaching the hospital/pharmacy/private doctor?
-- How can I get the fastest treatment in the midnight/How can I know where has the opening medical orgarnization in the midnight?
-- Analysis chart for each types of healthcare organization amounts/percentage?
+- **Distance Analysis** : *How far between the residence area to reaching the hospital/pharmacy/private doctor?*
+- **Time Analysis** : *How can I get the fastest treatment in the midnight/How can I know where has the opening medical orgarnization in the midnight?*
+- **Amounts analysis** : *Analysis chart for each types of healthcare organization amounts/percentage?*
 
 
 
