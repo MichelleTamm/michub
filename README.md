@@ -5,32 +5,40 @@
 Here is a new update for the plugin CIT|ANALYSIS.
 
 ## MAIN IDEA OF THIS PLUGIN
-This plugin is aiming to clarify the relationship between the commercial area/the community healthcare with the residence.
-- where is the zone of commercial area/residence/community healthcare
+This plugin is aiming to clarify the relationship between the community healthcare and the residence.
+- where is the zone of residence/community healthcare
 -- what's the catchment radius for their network?their concentration area?
 -- the reflection/development prospect/Provision of public facilities/convenience?
 
 - what can be better if the city system have change?
 -- Need to Increase public health facilities?
--- which area will become an advanced economic development area by now and even in the future?
--- How will this affect the real estate industry
+-- How can people get the healthcare at once?
+-- Provide a guideline/planning tool for people to catch the fastest treatmen
 
-## STEP 1.CHOOSE A MAP FOR DEVELOPING
-
-
-## STEP 2.YOU CAN CHECK THE COMMERCIAL AREA/RESIDENCE/HEALTHCARE AMOUNTS IN CHOSEN AREA
-
-
-## STEP 3.SHOW THE CATCHMENT RADIUS OF AREA CONNECTION (residence——commercial area/community healthcare)
+# *For Alpha Section*
+## STEP 1.choose a map for discovery
+![ada97c0dd9569e4b252601f42ebf555](https://user-images.githubusercontent.com/88995973/134773720-30ef3841-35c8-4688-bb44-bc16fd270560.png)
 
 
-## STEP 4.SPECIFY THE REGION/ZONE OF COMMERCIAL AREA/COMMUNITY HEALTHCARE
+## STEP 2.check the residence area/community healthcare amounts in the chosen area
+![878762146cc5f25dc7d455caa970290](https://user-images.githubusercontent.com/88995973/134773723-d23adfb2-a2be-4ed0-92bb-0bada2cf0008.png)
 
 
-## STEP.5ANALYSIS THE DENSITY OF EACH PART OF REGION(commercial area/residence/community healthcare)
+## STEP 3.the catchment radius between residence area —— community healthcare
+![de138cb3bd190ffce5af1140c9de624](https://user-images.githubusercontent.com/88995973/134773724-7f1b0c0d-b6dd-4c78-87d3-8f491c54868c.png)
 
 
+## STEP 4.specify the local community healthcare zone and alalysis the density 
+![image](https://user-images.githubusercontent.com/88995973/134774381-7d48236b-1050-49e2-974c-20f177a4cf78.png)
+
+# *For Beta Section*
 # Update
+
+## Main updates for this section
+In this section，the plugin will have a clearly display for the schedule planning and guiding opinion of the nearby healthcare organization:
+- Distance analysis:How far between the residence area to reaching the hospital/pharmacy/private doctor?
+- How can I get the fastest treatment in the midnight/How can I know where has the opening medical orgarnization in the midnight?
+- Analysis chart for each types of healthcare organization amounts/percentage?
 
 
 
