@@ -16,6 +16,11 @@ Here is a new update for the plugin CIT|ANALYSIS.
 -- *Provide a guideline/planning tool for people to catch the fastest treatment*
 
 # *For Alpha Section*
+In this section，the plugin will have a clearly display for the schedule planning and guiding opinion of the nearby healthcare organization:
+- **Mapping Datasets** : *Choosing a shot of one single city,analysis the relationship between residence areas and community healthcare in this area.*
+- **Brief Summary** :*Concluding the catalogue of the residence areas and community healthcare organization,investigating which will be showed on this tool.*
+- **Density Analysis** : *The radiation coverage within a city is determined by the type of medical facility and its emergency response capacity.*
+- **Amounts analysis** : *Analysis chart for each types of healthcare organization amounts/percentage?*
 ## STEP 1.choose a map for discovery
 ![ada97c0dd9569e4b252601f42ebf555](https://user-images.githubusercontent.com/88995973/134773720-30ef3841-35c8-4688-bb44-bc16fd270560.png)
 
@@ -39,7 +44,7 @@ In this section，the plugin will have a clearly display for the schedule planni
 - **Connection analysis** :*The relationship between one residence region to each healthcare organization?*
 - **Distance Analysis** : *How far between the residence area to reaching the hospital/pharmacy/private doctor?*
 - **Time Analysis** : *How can I get the fastest treatment in the midnight/How can I know where has the opening medical orgarnization in the midnight?*
-- **Amounts analysis** : *Analysis chart for each types of healthcare organization amounts/percentage?*
+- **Location analysis** : *Provide each single medical organization location and function with thier name-tag,let users more easy to find out the place they want to go.*
 
 
 
