@@ -33,6 +33,8 @@ CIT|ANALYSIS plug-in is developed into 8 sections.
 
 - *STEP 2.check the existing amounts of residence area/community healthcare in the chosen area
 ![1634539838(1)](https://user-images.githubusercontent.com/88995973/137682379-a22dade7-99bc-42c8-90d8-4e9ea0a2b13e.png)
+
+
 ![1634539919(1)](https://user-images.githubusercontent.com/88995973/137682536-ff7ca371-8094-4c79-90cc-9c375412eff9.png)
 
 
@@ -65,4 +67,6 @@ CIT|ANALYSIS plug-in is developed into 8 sections.
 - *The first graph shows Amounts of existing emergency in the hospitals.
 - *The second graph shows Amounts of community healthcare.
 ![1634543120(1)](https://user-images.githubusercontent.com/88995973/137689229-ee1f35a7-ce8d-43e0-800d-c79bd8bcbb95.png)
+
+![1634544706(1)](https://user-images.githubusercontent.com/88995973/137693286-e1a631f0-fe04-44ee-a3e3-c2de936d9792.jpg)
 
