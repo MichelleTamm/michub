@@ -60,3 +60,9 @@ CIT|ANALYSIS plug-in is developed into 8 sections.
 - *For Urban planners/landscape designers:For landscape architects, You can use the plugin analysis of the existing network of medical institutions in the city, through the radiation scope of medical institutions stationing position to plan for the future of medical institutions, but also can deepen the development from medical institutions to the actual distance of residential communities, citizens can use what kind of tools (public transportation/car/on foot) to get a more convenient way to the healthcare facilities.
 
 - *For Government or design department:Based on this helathcare analysis system,they can have a future plan for the Medical Institution planning and try to plan more hospital equipment for opening emergency outpatient department when circumstances permit, and add a variety of medical equipment, such as community service hospitals, elderly centers, children's hospitals, clinics for the disabled, etc
+
+# Graph Description
+-*The first graph shows Amounts of existing emergency in the hospitals.
+-*The second graph shows Amounts of community healthcare.
+![1634543120(1)](https://user-images.githubusercontent.com/88995973/137689229-ee1f35a7-ce8d-43e0-800d-c79bd8bcbb95.png)
+
