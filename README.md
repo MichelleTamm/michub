@@ -1,50 +1,29 @@
-# Cit|analysis （for test version）
-
-## INTRODUCTION
-
-Here is a new update for the plugin CIT|ANALYSIS.
+# CIT|ANALYSIS
+# INTRODUCTION
 
 ## MAIN IDEA OF THIS PLUGIN
 **This plugin is aiming to clarify the relationship between the community healthcare and the residence.**
 - *Where is the zone of residence/community healthcare?*
--- *What's the catchment radius for their network?their concentration area?*
--- *The reflection/development prospect/Provision of public facilities/convenience?*
+- *What's the catchment radius for their network?their concentration area?*
+- *The reflection/development prospect/Provision of public facilities/convenience?*
 
-- **What can be better if the city system have change?**
--- *Need to Increase public health facilities?*
--- *How can people get the healthcare at once?*
--- *Provide a guideline/planning tool for people to catch the fastest treatment*
+- *What can be better if the city system have change?*
+- *How can people get the healthcare at once?*
+- *Provide a guideline/planning tool for people to catch the fastest treatment*
 
-# *For Alpha Section*
-In this section，the plugin will have a clearly display for the schedule planning and guiding opinion of the nearby healthcare organization:
-- **Mapping Datasets** : *Choosing a shot of one single city,analysis the relationship between residence areas and community healthcare in this area.*
-- **Brief Summary** :*Concluding the catalogue of the residence areas and community healthcare organization,investigating which will be showed on this tool.*
-- **Density Analysis** : *The radiation coverage within a city is determined by the type of medical facility and its emergency response capacity.*
-- **Amounts analysis** : *Analysis chart for each types of healthcare organization amounts/percentage?*
-## STEP 1.choose a map for discovery
-![ada97c0dd9569e4b252601f42ebf555](https://user-images.githubusercontent.com/88995973/134773720-30ef3841-35c8-4688-bb44-bc16fd270560.png)
+# Overview of the definition
+CIT|ANALYSIS plug-in is developed into 8 sections.
+- *Section 1：Mapping Datasets——choose one city osm map for planning*
+- *Section 2：Brief Summary——Concluding community healthcare types and amounts*
+- *Section 3 ： Brief Summary——Concluding residence areas types and amounts*
+- *Section 4 : Amounts analysis——Counting how many community healthcare organizations and residence areas are existing*
+- *Section 5 : Density Analysis——residence area and community healthcare*
+- *Section 6 : Distance Analysis——Specify the minimum//maximum distances from different community healthcare organization to residence areas*
+- *Section 7 ： Location Analysis——Summary different kinds of community healthcare organization with their name-tags*
+- *Section 8 : Time Analysis : Specify the community healthcare organization for long-time emergency treatment*
 
-
-## STEP 2.check the residence area/community healthcare amounts in the chosen area
-![878762146cc5f25dc7d455caa970290](https://user-images.githubusercontent.com/88995973/134773723-d23adfb2-a2be-4ed0-92bb-0bada2cf0008.png)
-
-
-## STEP 3.the catchment radius between residence area —— community healthcare
-![de138cb3bd190ffce5af1140c9de624](https://user-images.githubusercontent.com/88995973/134773724-7f1b0c0d-b6dd-4c78-87d3-8f491c54868c.png)
-
-
-## STEP 4.specify the local community healthcare zone and alalysis the density 
-![image](https://user-images.githubusercontent.com/88995973/134774381-7d48236b-1050-49e2-974c-20f177a4cf78.png)
-
-# *For Beta Section*
-# Update
-
-## Main updates for this section
-In this section，the plugin will have a clearly display for the schedule planning and guiding opinion of the nearby healthcare organization:
-- **Connection analysis** :*The relationship between one residence region to each healthcare organization?*
-- **Distance Analysis** : *How far between the residence area to reaching the hospital/pharmacy/private doctor?*
-- **Time Analysis** : *How can I get the fastest treatment in the midnight/How can I know where has the opening medical orgarnization in the midnight?*
-- **Location analysis** : *Provide each single medical organization location and function with thier name-tag,let users more easy to find out the place they want to go.*
+# Usage
+This plug-in is mainly using the Grasshopper Structure of *Proximity* *Metaball* *Parametric Circles*
 
 
 
