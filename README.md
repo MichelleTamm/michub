@@ -25,10 +25,32 @@ CIT|ANALYSIS plug-in is developed into 8 sections.
 - *Section 8 : Time Analysis : Specify the community healthcare organization for long-time emergency treatment*
 
 # Use Instruction
-**This plug-in is mainly using the Grasshopper Structure of Proximity |Metaball Parametric |Circles.**
+**This plug-in is mainly using the Grasshopper Structure of Proximity |Metaball Parametric |Circles.While the components had been settle down,users do not need to make some changes except for what have mentioned**
 
 - *Using Mexico city as an example:*
+- *STEP 1.choose a map for discovery
+![1634539731(1)](https://user-images.githubusercontent.com/88995973/137682277-368e3fb8-7132-468a-8e4a-b45bd3c83781.png)
 
+- *STEP 2.check the existing amounts of residence area/community healthcare in the chosen area
+![1634539838(1)](https://user-images.githubusercontent.com/88995973/137682379-a22dade7-99bc-42c8-90d8-4e9ea0a2b13e.png)
+![1634539919(1)](https://user-images.githubusercontent.com/88995973/137682536-ff7ca371-8094-4c79-90cc-9c375412eff9.png)
+
+
+- *STEP 3.Use graphic to show how many community healthcare organizations and residence areas are existed and how many hospitals have the emergency
+![1634539970(1)](https://user-images.githubusercontent.com/88995973/137682710-f34e3d84-85ff-4e6a-a127-8fe04ce470ec.png)
+
+
+- *STEP 4.Use circle CNR to specify the density of healthcare facilities
+![1634540120(1)](https://user-images.githubusercontent.com/88995973/137682918-2b7d725b-2a4f-4172-8d9f-62e0cf124506.png)
+
+- *STEP 5.Use Proximity to analysis the closed point from residence area to healthcare area by distance
+![1634540357(1)](https://user-images.githubusercontent.com/88995973/137683417-eebe420d-b5df-48dd-830c-7edf246886ac.png)
+
+- *STEP 6.Use Name-tag Indicate the location of three major medical facilities
+- ![f4a3e6fd2a9342fc985ce9cffc44882](https://user-images.githubusercontent.com/88995973/137683909-d9a6b215-f7e8-4a4d-8951-c3c6358bb935.png)
+
+- *STEP 7.Analysis how many emergency in the hoitial and how many are not with name-tag explain
+![ace6a2ecdf6a702a3279940b45311fe](https://user-images.githubusercontent.com/88995973/137684369-e471e0d4-6336-4647-986a-55b3216ace93.png)
 
 # Future planning based on this plugin
 
