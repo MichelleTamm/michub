@@ -25,8 +25,10 @@ CIT|ANALYSIS plug-in is developed into 8 sections.
 - *Section 8 : Time Analysis : Specify the community healthcare organization for long-time emergency treatment*
 
 # Use Instruction
-**This plug-in is mainly using the Grasshopper Structure of *Proximity* *Metaball* *Parametric Circles*
--*Using Mexico city as an example:*
+**This plug-in is mainly using the Grasshopper Structure of Proximity |Metaball Parametric |Circles.**
+
+- *Using Mexico city as an example:*
+
 
 # Future planning based on this plugin
 
