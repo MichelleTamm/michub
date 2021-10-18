@@ -62,7 +62,7 @@ CIT|ANALYSIS plug-in is developed into 8 sections.
 - *For Government or design department:Based on this helathcare analysis system,they can have a future plan for the Medical Institution planning and try to plan more hospital equipment for opening emergency outpatient department when circumstances permit, and add a variety of medical equipment, such as community service hospitals, elderly centers, children's hospitals, clinics for the disabled, etc
 
 # Graph Description
--*The first graph shows Amounts of existing emergency in the hospitals.
--*The second graph shows Amounts of community healthcare.
+- *The first graph shows Amounts of existing emergency in the hospitals.
+- *The second graph shows Amounts of community healthcare.
 ![1634543120(1)](https://user-images.githubusercontent.com/88995973/137689229-ee1f35a7-ce8d-43e0-800d-c79bd8bcbb95.png)
 
