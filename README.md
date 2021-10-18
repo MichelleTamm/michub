@@ -21,8 +21,10 @@ CIT|ANALYSIS plug-in is developed into 8 sections.
 - *Section 4 : Amounts analysis——Counting how many community healthcare organizations and residence areas are existing*
 - *Section 5 : Density Analysis——residence area and community healthcare*
 - *Section 6 : Distance Analysis——Specify the minimum//maximum distances from different community healthcare organization to residence areas*
-- *Section 7 ： Location Analysis——Summary different kinds of community healthcare organization with their name-tags*
-- *Section 8 : Time Analysis : Specify the community healthcare organization for long-time emergency treatment*
+- *Section 7 : Connection Analysis——Links between various settlements and medical institutions*
+- *Section 8 ： Location Analysis——Summary different kinds of community healthcare organization with their name-tags*
+- *Section 9 : Time Analysis : Specify the community healthcare organization for long-time emergency treatment*
+
 
 # Use Instruction
 **This plug-in is mainly using the Grasshopper Structure of Proximity |Metaball Parametric |Circles.While the components had been settle down,users do not need to make some changes except for what have mentioned**
@@ -48,10 +50,14 @@ CIT|ANALYSIS plug-in is developed into 8 sections.
 - *STEP 5.Use Proximity to analysis the closed point from residence area to healthcare area by distance
 ![1634540357(1)](https://user-images.githubusercontent.com/88995973/137683417-eebe420d-b5df-48dd-830c-7edf246886ac.png)
 
-- *STEP 6.Use Name-tag Indicate the location of three major medical facilities
+- *STEP 6.Use Convex Hull to set the variable radiation area range 
+![6402075335e2a7e8b1bcf1d635eb966](https://user-images.githubusercontent.com/88995973/137697659-22c623a9-541d-4baf-8cc5-a3ff6a75ec27.png)
+
+
+- *STEP 7.Use Name-tag Indicate the location of three major medical facilities
 - ![f4a3e6fd2a9342fc985ce9cffc44882](https://user-images.githubusercontent.com/88995973/137683909-d9a6b215-f7e8-4a4d-8951-c3c6358bb935.png)
 
-- *STEP 7.Analysis how many emergency in the hoitial and how many are not with name-tag explain
+- *STEP 8.Analysis how many emergency in the hoitial and how many are not with name-tag explain
 ![ace6a2ecdf6a702a3279940b45311fe](https://user-images.githubusercontent.com/88995973/137684369-e471e0d4-6336-4647-986a-55b3216ace93.png)
 
 # Future planning based on this plugin
